@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  CombSortMPI.cpp
+e:\рабочий стол\3курс2сем\паралельне програмування\combsortmpi\combsortmpi\combsortmpi.cpp(23): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CombSortMPI.vcxproj -> E:\Рабочий стол\3курс2сем\Паралельне програмування\CombSortMPI\Release\CombSortMPI.exe
